@@ -81,13 +81,11 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
-                        <span>completed with examples</span>
+                        Fadi Nayef{" "}
+                        <span>Developer</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                     learning to improve my skills and my tech-life
                       </p>
                       <div className="btn-wrapper">
                         <Button
